@@ -76,15 +76,6 @@ Here's a curated collection of links, guides, and insights to help you discover 
 
 ---
 
-## Recommendations
-1. Start by understanding the basics of **partitioning** and **indexing** to improve query performance.
-2. Regularly perform **compaction** to manage small files and optimize storage.
-3. Explore **Z-order sorting** for enhanced data locality and query speed.
-4. Follow AWS-specific **best practices** for optimizing reads, writes, and storage if using Iceberg with Amazon S3.
-5. Refer to official documentation and blogs for advanced tuning techniques.
-
----
-
 ## Misc.
 
 ---
