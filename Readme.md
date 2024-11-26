@@ -18,12 +18,17 @@ Here's a curated collection of links, guides, and insights to help you discover 
 - **[Best Practices for Optimizing Apache Iceberg Workloads by AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/apache-iceberg-on-aws/best-practices-general.html)**  
   General best practices for improving Iceberg workloads in AWS environments.
 
-- **[How Amazon Ads Uses Iceberg Optimizations to Accelerate Their Spark Workload on Amazon S3](https://aws.amazon.com/blogs/storage/how-amazon-ads-uses-iceberg-optimizations-to-accelerate-their-spark-workload-on-amazon-s3/)**  
+- **[How Amazon Ads Uses Iceberg Optimizations to Accelerate Their Spark Workload on Amazon S3](https://aws.amazon.com/blogs/storage/how-amazon-ads-uses-iceberg-optimizations-to-accelerate-their-spark-workload-on-amazon-s3/#:~:text=Improve%20operational%20efficiencies,in%20Amazon%20EMR)**  
   A case study on how Amazon Ads leverages Iceberg optimizations to enhance Spark workloads on Amazon S3.
+
+- **[Improve Operational Efficiencies of Apache Iceberg Tables Built on Amazon S3 Data Lakes](https://aws.amazon.com/blogs/big-data/improve-operational-efficiencies-of-apache-iceberg-tables-built-on-amazon-s3-data-lakes/)**  
+  Insights into enhancing the operational efficiency of Iceberg tables within Amazon S3 data lakes.
 
 ---
 
 ### Partitioning, Indexing, and Sorting
+
+#### Partitioning and Indexing
 
 - **[Partitioning and Indexing in Apache Iceberg by IOMETE](https://iomete.com/the-ultimate-guide-to-apache-iceberg#chapter-6-partitioning-and-indexing-in-apache-iceberg)**  
   A guide to leveraging partitioning and indexing for improved query performance in Iceberg tables.
@@ -59,10 +64,16 @@ Here's a curated collection of links, guides, and insights to help you discover 
 - **[Iceberg 101: Ten Tips to Optimize Performance by Upsolver](https://www.upsolver.com/blog/optimize-iceberg-performance)**  
   Ten actionable tips to enhance the performance of Iceberg tables.
 
+- **[Amazon EMR 7.1 Runtime for Apache Spark and Iceberg Can Run Spark Workloads 2.7 Times Faster Than Apache Spark 3.5.1 and Iceberg 1.5.2](https://aws.amazon.com/blogs/big-data/amazon-emr-7-1-runtime-for-apache-spark-and-iceberg-can-run-spark-workloads-2-7-times-faster-than-apache-spark-3-5-1-and-iceberg-1-5-2/)**  
+  Details on how Amazon EMR's runtime optimizations significantly speed up Spark workloads using Iceberg.
+
 #### Read Optimization
 
 - **[Optimizing Read Performance by AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/apache-iceberg-on-aws/best-practices-read.html)**  
   Guidelines for optimizing read performance when working with Iceberg tables.
+
+- **[Accelerate Query Performance with Apache Iceberg Statistics on the AWS Glue Data Catalog](https://aws.amazon.com/blogs/big-data/accelerate-query-performance-with-apache-iceberg-statistics-on-the-aws-glue-data-catalog/)**  
+  How leveraging Iceberg statistics within AWS Glue Data Catalog can speed up query performance.
 
 #### Write Optimization
 
@@ -95,3 +106,4 @@ Here's a curated collection of links, guides, and insights to help you discover 
 Feel free to contribute to this resource list by suggesting additional articles, tools, or best practices for Apache Iceberg.
 
 ---
+
